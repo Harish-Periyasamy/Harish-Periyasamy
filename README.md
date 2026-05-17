@@ -1,15 +1,29 @@
 <div align="center">
 
-# Harish Periyasamy
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E3A8A,100:2563EB&text=Harish%20Periyasamy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20React.js%20Developer%20|%20Java%20Developer&descAlignY=58&descSize=18" />
 
-### Software Developer • React.js Developer • Java Enthusiast
+# Software Developer Focused on Scalable and Modern Applications
+
+### React.js • Java • REST APIs • Full Stack Development • Machine Learning
 
 <p>
-Building scalable web applications, responsive user interfaces,
-and intelligent software solutions using modern technologies.
+Building responsive web applications, intelligent systems,
+and clean software solutions using modern technologies.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Harish-Periyasamy&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+<a href="https://www.linkedin.com/in/harishperiyasamy/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harishperiyasamy007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harish-Periyasamy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -17,131 +31,134 @@ and intelligent software solutions using modern technologies.
 
 # About Me
 
-- 🎓 B.E. CSE (Artificial Intelligence & Machine Learning)
-- 💻 Passionate about Software Development & Frontend Engineering
-- ⚛️ Specialized in React.js, JavaScript, and REST API Integration
-- 🧠 Interested in Machine Learning & Intelligent Systems
-- 🌱 Currently learning Spring Boot and Advanced Full Stack Development
-- 🚀 Focused on building scalable and user-friendly applications
+```java
+public class HarishPeriyasamy {
+
+    String role = "Software Developer";
+
+    String[] expertise = {
+        "React.js",
+        "Java",
+        "Python",
+        "REST APIs",
+        "MySQL",
+        "Machine Learning"
+    };
+
+    String currentFocus = "Full Stack Development";
+
+    String objective =
+        "Building scalable and efficient software solutions";
+}
+```
 
 ---
 
-# Tech Stack
+# Technology Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mysql,html,css,bootstrap,tailwind,git,github,vscode,eclipse,idea" />
 
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
-</p>
+</div>
 
 ---
 
 # Featured Projects
 
-## Placement Prediction & Guidance System
+<table>
+<tr>
+<td width="50%">
 
-Machine Learning based web application developed using Python, React.js, and MySQL for analyzing student placement opportunities.
+## Placement Prediction System
 
-### Key Features
-- Prediction analysis for 500+ student records
-- CRUD-based management system
-- Responsive React.js dashboards
-- Intelligent placement guidance system
+Machine Learning based web platform developed for analyzing placement opportunities using predictive analytics.
 
-### Tech Stack
-`Python` `React.js` `MySQL` `Machine Learning`
+### Highlights
+- Analyzed 500+ student records
+- Implemented CRUD operations
+- Developed responsive React.js dashboards
+- Reduced manual processing effort
 
----
+### Technologies
+`Python` `React.js`
+`MySQL` `Machine Learning`
 
-## Parkinson’s Disease Detection System
+</td>
 
-Machine Learning application for detecting Parkinson’s disease using voice pattern analysis.
+<td width="50%">
 
-### Key Features
-- Voice sample analysis
-- Jitter & Shimmer extraction
+## Parkinson’s Disease Detection
+
+Machine Learning application developed for disease detection using voice pattern analysis and predictive algorithms.
+
+### Highlights
+- Voice pattern prediction system
+- Jitter and Shimmer analysis
 - Real-time prediction dashboard
 - Faster disease screening workflow
 
-### Tech Stack
-`Python` `Machine Learning` `JavaScript` `MySQL`
+### Technologies
+`Python`
+`Machine Learning`
+`JavaScript`
+`MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Analytics
+# Core Competencies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harish-Periyasamy&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Periyasamy&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harish-Periyasamy&theme=github-dark-blue&hide_border=true" />
+| Software Development | Frontend Engineering | REST API Integration |
+|---|---|---|
+| React.js Development | Java Programming | Responsive UI Design |
+| Machine Learning | Database Management | Problem Solving |
 
 </div>
-
----
-
-# Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Harish-Periyasamy" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:harishperiyasamy007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
 
 ---
 
 # Current Focus
 
 ```txt
-• Full Stack Development
-• React.js Applications
-• REST API Integration
-• Java Development
-• Machine Learning Projects
+Full Stack Development
+Advanced React.js
+Backend Development
+Scalable Web Applications
+Software Engineering Practices
 ```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harishperiyasamy/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+</a>
+
+<a href="mailto:harishperiyasamy007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="52" />
+</a>
+
+<a href="https://github.com/Harish-Periyasamy">
+<img src="https://skillicons.dev/icons?i=github" width="52" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### “Building technology that creates real-world impact.”
+## Building scalable technology with clean and efficient engineering.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:1E3A8A,100:0F172A"/>
